@@ -4,20 +4,20 @@
 
       <div class="box">
          <img src="images/email-icon.png" alt="">
-         <h3>our email</h3>
+         <h3>Our email</h3>
          <a href="mailto:cafeteriayetu@gmail.com">cafeteriayetu@gmail.com</a>
          <a href="mailto:admincafeteria@gmail.com">admincafeteria@gmail.com</a>
       </div>
 
       <div class="box">
          <img src="images/clock-icon.png" alt="">
-         <h3>opening hours</h3>
+         <h3>Opening hours</h3>
          <p>07:00am to 09:00pm</p>
       </div>
 
       <div class="box">
          <img src="images/map-icon.png" alt="">
-         <h3>our address</h3>
+         <h3>Our address</h3>
          <a href="#">Juja Kwale, Rd, Juja</a>
       </div>
 
